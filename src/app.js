@@ -1,5 +1,5 @@
 import React from "react";
 
-var Title = () => <h1>{16666}</h1>;
+const App = () => <h1>{"médio - source"}</h1>;
 
-export default Title;
+export default App;

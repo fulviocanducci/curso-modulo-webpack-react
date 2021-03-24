@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-cli serve --mode development"
+    "start": "webpack-cli serve --mode development",
+    "server": "node server.js"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
